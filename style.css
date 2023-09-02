@@ -18,8 +18,9 @@ nav a{
     text-decoration: none;
     color: blueviolet;
     background-color: rgb(203, 176, 229);
-    padding: 8px;
+    padding: 18px;
     margin: 5px 1px 25px 0;
+    font-size:18px;
 }
 
 .css{
@@ -30,6 +31,11 @@ nav a{
 h1{
    background-color: rgb(196, 162, 227); 
    color: rgb(61, 22, 98);
+}
+
+.link-nav:hover{
+    background-color:orange;
+    color:rgb(102, 9, 9);
 }
 
 p{
