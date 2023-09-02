@@ -22,6 +22,12 @@ ol li{
     padding: 3.5px;
 }
 
+.link-header:hover{
+    background-image: linear-gradient(to left, blueviolet, #8643D6);
+    color: rgb(46, 27, 64);
+}
+
+
 footer{
    padding: 3.5px;
    margin: 20px;
